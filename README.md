@@ -190,6 +190,14 @@ Daily SUMIFS vs manual sum · 5-day rolling average · Divergence Index · Secto
 **helanpreethi-analytics**
 GitHub: [@helanpreethi-analytics](https://github.com/helanpreethi-analytics)
 
+Helan Preethi
+
+Finance Analytics Professional
+
+Interested in building practical analytics projects using:
+
+SQL • Excel • Python • Power BI • Business Analysis • Data Analytics
+
 ---
 
 ## 📄 License
